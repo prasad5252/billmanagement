@@ -141,6 +141,8 @@ class BillingApplication implements ActionListener
 		int kiwicount = 100;
 		
 		
+		
+		
 		String [] fruit = {"1","2","3","4","5","6","7","8","9","10"};
 		JComboBox <String> cb = new JComboBox<>(fruit);
 		
